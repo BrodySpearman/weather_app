@@ -1,0 +1,13 @@
+.header_holder {
+    width: 100%;
+    margin-top: 10px;
+    position: sticky;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    z-index: 100;
+}
+
+.logo_holder {
+    padding-left: 5px;
+}

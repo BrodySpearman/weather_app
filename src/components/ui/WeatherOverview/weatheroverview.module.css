@@ -1,0 +1,13 @@
+.overviewPanel {
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+}
+
+.overviewCard {
+    background-color: #636363;
+    border-radius: 1em;
+    padding: 1em;
+    margin-left: 1em;
+    width: 100%;
+}
