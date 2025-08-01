@@ -34,8 +34,6 @@ export default function sevenDayForecast() {
         });
     };
 
-
-
     return (
         <div className="7day-forecast-panel w-full flex flex-col items-center justify-center">
             <h2 className="text-xl font-montserrat font-bold text-[#d3d3d3]">7-Day Forecast</h2>
